@@ -4,7 +4,7 @@
 
 # 
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://github.com/rearc-data/poverty-estimates-small-area-income](https://github.com/rearc-data/poverty-estimates-small-area-income). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-cfyabtif5rvoa?ref_=beagle&applicationId=AWSMPContessa#offers](https://aws.amazon.com/marketplace/pp/prodview-cfyabtif5rvoa?ref_=beagle&applicationId=AWSMPContessa#offers). 
 
 ## Main Overview
 This dataset provides information on estimates of small area income and poverty for the years 2013,2014,2017, 2018,2019. This information is sourced from United States Census Bureau and contains estimates for all U.S states and counties. The information is updated annually. For more information visit[U.S Census Bureau|SAIPE](https://www.census.gov/programs-surveys/saipe/data/datasets.html) 
